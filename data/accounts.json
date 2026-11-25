@@ -1,0 +1,58 @@
+[
+  {
+    "id": "acc-director",
+    "login": "dyrektor",
+    "email": "mateuszgaming124@gmail.com",
+    "password": "erwase12",
+    "role": "director",
+    "fullName": "Dyrektor Mateusz",
+    "subtitle": "Dyrektor · Pełne uprawnienia",
+    "schoolName": "",
+    "className": "3B",
+    "lastLoginAt": "2026-11-24 18:41:47",
+    "previousLoginAt": "2026-11-24 16:04:51"
+  },
+  {
+    "login": "5574009u",
+    "password": "OskarPa231",
+    "role": "student",
+    "fullName": "Oskar Pa",
+    "subtitle": "Uczeń · Klasa 8A · nr 1",
+    "schoolName": "",
+    "className": "8A",
+    "studentNumber": 1,
+    "authProvider": "synergia",
+    "permissions": {
+      "editTimetable": false,
+      "editGrades": false,
+      "editAttendance": false,
+      "editAnnouncements": false,
+      "editCalendar": false,
+      "editClassesAndTopics": false,
+      "generateCertificates": false,
+      "manageAccounts": false
+    },
+    "id": "acc-1795533063268"
+  },
+  {
+    "login": "3863219",
+    "password": "MarcinBoTak",
+    "role": "teacher",
+    "fullName": "Marcin Urło",
+    "subtitle": "Nauczyciel · Klasa 8A",
+    "schoolName": "",
+    "className": "8A",
+    "authProvider": "synergia",
+    "permissions": {
+      "editTimetable": true,
+      "editGrades": true,
+      "editAttendance": true,
+      "editAnnouncements": true,
+      "editCalendar": true,
+      "editClassesAndTopics": false,
+      "generateCertificates": false,
+      "manageAccounts": false
+    },
+    "id": "acc-1795533102939"
+  }
+]

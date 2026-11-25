@@ -1,0 +1,1262 @@
+{
+  "luckyNumber": 14,
+  "schoolYear": "2026/2027",
+  "schoolName": "",
+  "behaviorGrade": "Bardzo dobre",
+  "classes": [
+    {
+      "id": "3B",
+      "name": "3B",
+      "homeroomTeacher": "mgr Piotr Nowak",
+      "students": []
+    },
+    {
+      "id": "4A",
+      "name": "4A",
+      "homeroomTeacher": "mgr Katarzyna Wiśniewska",
+      "students": []
+    },
+    {
+      "id": "2C",
+      "name": "2C",
+      "homeroomTeacher": "mgr Magdalena Dąbrowska",
+      "students": []
+    },
+    {
+      "id": "1A",
+      "name": "1A",
+      "homeroomTeacher": "mgr Jakub Mazur",
+      "students": []
+    },
+    {
+      "id": "8A",
+      "name": "8A",
+      "homeroomTeacher": "Wychowawca",
+      "students": []
+    }
+  ],
+  "classLessonHours": {},
+  "subjects": [
+    {
+      "id": "mat",
+      "name": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "proposedTerm1": "5"
+    },
+    {
+      "id": "pol",
+      "name": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "proposedTerm1": "4"
+    },
+    {
+      "id": "ang",
+      "name": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "proposedTerm1": "5"
+    },
+    {
+      "id": "inf",
+      "name": "Informatyka",
+      "teacher": "mgr inż. Marek Wójcik",
+      "proposedTerm1": "6"
+    },
+    {
+      "id": "fiz",
+      "name": "Fizyka",
+      "teacher": "dr Agnieszka Kamińska",
+      "proposedTerm1": "4"
+    },
+    {
+      "id": "his",
+      "name": "Historia",
+      "teacher": "mgr Paweł Lewandowski",
+      "proposedTerm1": "4"
+    },
+    {
+      "id": "bio",
+      "name": "Biologia",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "proposedTerm1": "3"
+    },
+    {
+      "id": "che",
+      "name": "Chemia",
+      "teacher": "mgr Ewa Szymańska",
+      "proposedTerm1": "4"
+    },
+    {
+      "id": "geo",
+      "name": "Geografia",
+      "teacher": "mgr Michał Kozłowski",
+      "proposedTerm1": "5"
+    },
+    {
+      "id": "wf",
+      "name": "Wychowanie fizyczne",
+      "teacher": "mgr Jakub Mazur",
+      "proposedTerm1": "5"
+    },
+    {
+      "id": "gw",
+      "name": "Godzina wychowawcza",
+      "teacher": "mgr Piotr Nowak"
+    }
+  ],
+  "gradeCategories": [
+    {
+      "id": "cat-sprawdzian",
+      "name": "Sprawdzian",
+      "defaultWeight": 4,
+      "countsToAverage": true
+    },
+    {
+      "id": "cat-praca-klasowa",
+      "name": "Praca klasowa",
+      "defaultWeight": 4,
+      "countsToAverage": true
+    },
+    {
+      "id": "cat-kartkowka",
+      "name": "Kartkówka",
+      "defaultWeight": 2,
+      "countsToAverage": true
+    },
+    {
+      "id": "cat-odpowiedz",
+      "name": "Odpowiedź ustna",
+      "defaultWeight": 2,
+      "countsToAverage": true
+    },
+    {
+      "id": "cat-projekt",
+      "name": "Projekt",
+      "defaultWeight": 3,
+      "countsToAverage": true
+    },
+    {
+      "id": "cat-zadanie",
+      "name": "Zadanie domowe",
+      "defaultWeight": 1,
+      "countsToAverage": true
+    },
+    {
+      "id": "cat-aktywnosc",
+      "name": "Aktywność",
+      "defaultWeight": 1,
+      "countsToAverage": true
+    }
+  ],
+  "grades": [
+    {
+      "id": "g-1",
+      "subjectId": "mat",
+      "value": "5",
+      "weight": 4,
+      "category": "Sprawdzian",
+      "period": 1,
+      "date": "2026-11-18",
+      "teacher": "mgr Piotr Nowak",
+      "comment": "Funkcja kwadratowa i nierówności z parametrem — bardzo dobre rozwiązania.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-2",
+      "subjectId": "mat",
+      "value": "4+",
+      "weight": 2,
+      "category": "Kartkówka",
+      "period": 1,
+      "date": "2026-11-05",
+      "teacher": "mgr Piotr Nowak",
+      "comment": "Własności funkcji liniowej i wykresy.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-3",
+      "subjectId": "mat",
+      "value": "5",
+      "weight": 1,
+      "category": "Aktywność",
+      "period": 1,
+      "date": "2026-10-21",
+      "teacher": "mgr Piotr Nowak",
+      "comment": "Praca przy tablicy — zadania rozszerzone.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-4",
+      "subjectId": "mat",
+      "value": "4",
+      "weight": 3,
+      "category": "Praca klasowa",
+      "period": 1,
+      "date": "2026-10-08",
+      "teacher": "mgr Piotr Nowak",
+      "comment": "Zbiory i działania na wyrażeniach algebraicznych.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-5",
+      "subjectId": "pol",
+      "value": "4",
+      "weight": 4,
+      "category": "Praca klasowa",
+      "period": 1,
+      "date": "2026-11-14",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "comment": "Rozprawka problemowa: motyw wolności w literaturze romantyzmu.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-6",
+      "subjectId": "pol",
+      "value": "4+",
+      "weight": 2,
+      "category": "Odpowiedź ustna",
+      "period": 1,
+      "date": "2026-10-29",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "comment": "Interpretacja wybranych sonetów Adama Mickiewicza.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-7",
+      "subjectId": "pol",
+      "value": "3+",
+      "weight": 2,
+      "category": "Kartkówka",
+      "period": 1,
+      "date": "2026-10-12",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "comment": "Znajomość lektury „Dziady cz. III”.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-8",
+      "subjectId": "ang",
+      "value": "5+",
+      "weight": 3,
+      "category": "Sprawdzian",
+      "period": 1,
+      "date": "2026-11-12",
+      "teacher": "mgr Tomasz Zieliński",
+      "comment": "Unit 3: Conditionals & Passive Voice.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-9",
+      "subjectId": "ang",
+      "value": "5",
+      "weight": 2,
+      "category": "Odpowiedź ustna",
+      "period": 1,
+      "date": "2026-10-27",
+      "teacher": "mgr Tomasz Zieliński",
+      "comment": "Maturalny opis ilustracji i dyskusja.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-10",
+      "subjectId": "ang",
+      "value": "4+",
+      "weight": 1,
+      "category": "Zadanie domowe",
+      "period": 1,
+      "date": "2026-10-06",
+      "teacher": "mgr Tomasz Zieliński",
+      "comment": "Formal email of complaint.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-11",
+      "subjectId": "inf",
+      "value": "6",
+      "weight": 4,
+      "category": "Projekt",
+      "period": 1,
+      "date": "2026-11-16",
+      "teacher": "mgr inż. Marek Wójcik",
+      "comment": "Algorytmy sortowania i złożoność obliczeniowa w Pythonie.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-12",
+      "subjectId": "inf",
+      "value": "5+",
+      "weight": 2,
+      "category": "Kartkówka",
+      "period": 1,
+      "date": "2026-10-19",
+      "teacher": "mgr inż. Marek Wójcik",
+      "comment": "Systemy liczbowe i arytmetyka binarna.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-13",
+      "subjectId": "fiz",
+      "value": "3",
+      "weight": 3,
+      "category": "Sprawdzian",
+      "period": 1,
+      "date": "2026-11-10",
+      "teacher": "dr Agnieszka Kamińska",
+      "comment": "Dynamika i zasady zachowania pędu — drobne błędy rachunkowe.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-14",
+      "subjectId": "fiz",
+      "value": "5",
+      "weight": 2,
+      "category": "Kartkówka",
+      "period": 1,
+      "date": "2026-10-15",
+      "teacher": "dr Agnieszka Kamińska",
+      "comment": "Kinematyka ruchu jednostajnie przyspieszonego.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-15",
+      "subjectId": "his",
+      "value": "4",
+      "weight": 3,
+      "category": "Sprawdzian",
+      "period": 1,
+      "date": "2026-11-04",
+      "teacher": "mgr Paweł Lewandowski",
+      "comment": "Polska i Europa w XIX wieku.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-16",
+      "subjectId": "his",
+      "value": "4+",
+      "weight": 2,
+      "category": "Odpowiedź ustna",
+      "period": 1,
+      "date": "2026-10-14",
+      "teacher": "mgr Paweł Lewandowski",
+      "comment": "Powstanie listopadowe — przyczyny i skutki.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-17",
+      "subjectId": "bio",
+      "value": "2+",
+      "weight": 3,
+      "category": "Sprawdzian",
+      "period": 1,
+      "date": "2026-11-07",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "comment": "Metabolizm komórkowy i oddychanie tlenowe (zalecana poprawa).",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-18",
+      "subjectId": "bio",
+      "value": "4",
+      "weight": 1,
+      "category": "Zadanie domowe",
+      "period": 1,
+      "date": "2026-10-20",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "comment": "Schemat cyklu Krebsa.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-19",
+      "subjectId": "che",
+      "value": "4",
+      "weight": 3,
+      "category": "Sprawdzian",
+      "period": 1,
+      "date": "2026-11-09",
+      "teacher": "mgr Ewa Szymańska",
+      "comment": "Stechiometria i obliczenia molowe.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-20",
+      "subjectId": "che",
+      "value": "4+",
+      "weight": 2,
+      "category": "Kartkówka",
+      "period": 1,
+      "date": "2026-10-17",
+      "teacher": "mgr Ewa Szymańska",
+      "comment": "Reakcje redoks.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-21",
+      "subjectId": "geo",
+      "value": "5",
+      "weight": 2,
+      "category": "Kartkówka",
+      "period": 1,
+      "date": "2026-11-13",
+      "teacher": "mgr Michał Kozłowski",
+      "comment": "Strefy klimatyczne i cyrkulacja atmosfery.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-22",
+      "subjectId": "geo",
+      "value": "5",
+      "weight": 1,
+      "category": "Aktywność",
+      "period": 1,
+      "date": "2026-10-23",
+      "teacher": "mgr Michał Kozłowski",
+      "comment": "Praca z mapą konturową Europy.",
+      "countsToAverage": true
+    },
+    {
+      "id": "g-23",
+      "subjectId": "wf",
+      "value": "5",
+      "weight": 2,
+      "category": "Aktywność",
+      "period": 1,
+      "date": "2026-11-15",
+      "teacher": "mgr Jakub Mazur",
+      "comment": "Zaangażowanie na lekcjach i turniej siatkówki.",
+      "countsToAverage": true
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-1",
+      "date": "2026-11-16",
+      "lessonNumber": 1,
+      "subjectName": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "status": "ob",
+      "topic": "Twórczość Cypriana Kamila Norwida"
+    },
+    {
+      "id": "att-2",
+      "date": "2026-11-16",
+      "lessonNumber": 2,
+      "subjectName": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "status": "ob",
+      "topic": "Równania wymierne — zadania tekstowe"
+    },
+    {
+      "id": "att-3",
+      "date": "2026-11-16",
+      "lessonNumber": 3,
+      "subjectName": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "status": "ob",
+      "topic": "Reported speech in practice"
+    },
+    {
+      "id": "att-4",
+      "date": "2026-11-16",
+      "lessonNumber": 4,
+      "subjectName": "Historia",
+      "teacher": "mgr Paweł Lewandowski",
+      "status": "ob",
+      "topic": "Przemiany społeczne końca XIX w."
+    },
+    {
+      "id": "att-5",
+      "date": "2026-11-16",
+      "lessonNumber": 5,
+      "subjectName": "Fizyka",
+      "teacher": "dr Agnieszka Kamińska",
+      "status": "ob",
+      "topic": "Praca, moc i energia mechaniczna"
+    },
+    {
+      "id": "att-6",
+      "date": "2026-11-16",
+      "lessonNumber": 6,
+      "subjectName": "Informatyka",
+      "teacher": "mgr inż. Marek Wójcik",
+      "status": "ob",
+      "topic": "Rekurencja i dziel i zwyciężaj"
+    },
+    {
+      "id": "att-7",
+      "date": "2026-11-17",
+      "lessonNumber": 1,
+      "subjectName": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "status": "sp",
+      "topic": "Powtórzenie przed sprawdzianem z funkcji kwadratowej"
+    },
+    {
+      "id": "att-8",
+      "date": "2026-11-17",
+      "lessonNumber": 2,
+      "subjectName": "Chemia",
+      "teacher": "mgr Ewa Szymańska",
+      "status": "ob",
+      "topic": "Roztwory i stężenie procentowe"
+    },
+    {
+      "id": "att-9",
+      "date": "2026-11-17",
+      "lessonNumber": 3,
+      "subjectName": "Biologia",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "status": "ob",
+      "topic": "Podziały komórkowe: mitoza i mejoza"
+    },
+    {
+      "id": "att-10",
+      "date": "2026-11-17",
+      "lessonNumber": 4,
+      "subjectName": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "status": "ob",
+      "topic": "Pozytywizm warszawski — program epoki"
+    },
+    {
+      "id": "att-11",
+      "date": "2026-11-17",
+      "lessonNumber": 5,
+      "subjectName": "Wychowanie fizyczne",
+      "teacher": "mgr Jakub Mazur",
+      "status": "ob",
+      "topic": "Doskonalenie gry w piłkę siatkową"
+    },
+    {
+      "id": "att-12",
+      "date": "2026-11-17",
+      "lessonNumber": 6,
+      "subjectName": "Godzina wychowawcza",
+      "teacher": "mgr Piotr Nowak",
+      "status": "ob",
+      "topic": "Organizacja studniówki i wyjazdu integracyjnego"
+    },
+    {
+      "id": "att-13",
+      "date": "2026-11-18",
+      "lessonNumber": 1,
+      "subjectName": "Geografia",
+      "teacher": "mgr Michał Kozłowski",
+      "status": "nb",
+      "topic": "Wody powierzchniowe i podziemne na świecie"
+    },
+    {
+      "id": "att-14",
+      "date": "2026-11-18",
+      "lessonNumber": 2,
+      "subjectName": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "status": "ob",
+      "topic": "Sprawdzian wiadomości: funkcja kwadratowa"
+    },
+    {
+      "id": "att-15",
+      "date": "2026-11-18",
+      "lessonNumber": 3,
+      "subjectName": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "status": "ob",
+      "topic": "Listening comprehension — exam tasks"
+    },
+    {
+      "id": "att-16",
+      "date": "2026-11-18",
+      "lessonNumber": 4,
+      "subjectName": "Fizyka",
+      "teacher": "dr Agnieszka Kamińska",
+      "status": "ob",
+      "topic": "Zasada zachowania energii mechanicznej"
+    },
+    {
+      "id": "att-17",
+      "date": "2026-11-18",
+      "lessonNumber": 5,
+      "subjectName": "Informatyka",
+      "teacher": "mgr inż. Marek Wójcik",
+      "status": "ob",
+      "topic": "Bazy danych SQL — zapytania SELECT"
+    },
+    {
+      "id": "att-18",
+      "date": "2026-11-18",
+      "lessonNumber": 6,
+      "subjectName": "Historia",
+      "teacher": "mgr Paweł Lewandowski",
+      "status": "ob",
+      "topic": "Sprawa polska przed I wojną światową"
+    },
+    {
+      "id": "att-19",
+      "date": "2026-11-19",
+      "lessonNumber": 1,
+      "subjectName": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "status": "u",
+      "topic": "„Lalka” Bolesława Prusa — świat przedstawiony",
+      "excuseNote": "Wizyta u stomatologa (usprawiedliwione przez rodzica)"
+    },
+    {
+      "id": "att-20",
+      "date": "2026-11-19",
+      "lessonNumber": 2,
+      "subjectName": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "status": "u",
+      "topic": "Charakterystyka Stanisława Wokulskiego",
+      "excuseNote": "Wizyta u stomatologa (usprawiedliwione przez rodzica)"
+    },
+    {
+      "id": "att-21",
+      "date": "2026-11-19",
+      "lessonNumber": 3,
+      "subjectName": "Chemia",
+      "teacher": "mgr Ewa Szymańska",
+      "status": "ob",
+      "topic": "Stężenie molowe roztworów — zadania"
+    },
+    {
+      "id": "att-22",
+      "date": "2026-11-19",
+      "lessonNumber": 4,
+      "subjectName": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "status": "ob",
+      "topic": "Omówienie wyników sprawdzianu"
+    },
+    {
+      "id": "att-23",
+      "date": "2026-11-19",
+      "lessonNumber": 5,
+      "subjectName": "Wychowanie fizyczne",
+      "teacher": "mgr Jakub Mazur",
+      "status": "zw",
+      "topic": "Ćwiczenia ogólnorozwojowe — sala gimnastyczna"
+    },
+    {
+      "id": "att-24",
+      "date": "2026-11-19",
+      "lessonNumber": 6,
+      "subjectName": "Biologia",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "status": "ob",
+      "topic": "Genetyka mendlowska — krzyżówki genetyczne"
+    },
+    {
+      "id": "att-25",
+      "date": "2026-11-20",
+      "lessonNumber": 1,
+      "subjectName": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "status": "ob",
+      "topic": "Reading & Use of English — vocabulary"
+    },
+    {
+      "id": "att-26",
+      "date": "2026-11-20",
+      "lessonNumber": 2,
+      "subjectName": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "status": "ob",
+      "topic": "Wielomiany — wprowadzenie i schemat Hornera"
+    },
+    {
+      "id": "att-27",
+      "date": "2026-11-20",
+      "lessonNumber": 3,
+      "subjectName": "Geografia",
+      "teacher": "mgr Michał Kozłowski",
+      "status": "nb",
+      "topic": "Lodowce i rzeźba glacjalna"
+    }
+  ],
+  "timetable": [
+    {
+      "id": "tt-0-1",
+      "dayIndex": 0,
+      "lessonNumber": 1,
+      "subject": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "room": "s. 104",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-0-2",
+      "dayIndex": 0,
+      "lessonNumber": 2,
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-0-3",
+      "dayIndex": 0,
+      "lessonNumber": 3,
+      "subject": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "room": "s. 112",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-0-4",
+      "dayIndex": 0,
+      "lessonNumber": 4,
+      "subject": "Historia",
+      "teacher": "mgr Paweł Lewandowski",
+      "room": "s. 201",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-0-5",
+      "dayIndex": 0,
+      "lessonNumber": 5,
+      "subject": "Fizyka",
+      "teacher": "dr Agnieszka Kamińska",
+      "room": "s. 305",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-0-6",
+      "dayIndex": 0,
+      "lessonNumber": 6,
+      "subject": "Informatyka",
+      "teacher": "mgr inż. Marek Wójcik",
+      "room": "s. 15 (komp.)",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-1-1",
+      "dayIndex": 1,
+      "lessonNumber": 1,
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-1-2",
+      "dayIndex": 1,
+      "lessonNumber": 2,
+      "subject": "Chemia",
+      "teacher": "mgr Ewa Szymańska",
+      "room": "s. 302",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-1-3",
+      "dayIndex": 1,
+      "lessonNumber": 3,
+      "subject": "Biologia",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "room": "s. 301",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-1-4",
+      "dayIndex": 1,
+      "lessonNumber": 4,
+      "subject": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "room": "s. 104",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-1-5",
+      "dayIndex": 1,
+      "lessonNumber": 5,
+      "subject": "Wychowanie fizyczne",
+      "teacher": "mgr Jakub Mazur",
+      "room": "Hala A",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-1-6",
+      "dayIndex": 1,
+      "lessonNumber": 6,
+      "subject": "Godzina wychowawcza",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-2-1",
+      "dayIndex": 2,
+      "lessonNumber": 1,
+      "subject": "Geografia",
+      "teacher": "mgr Michał Kozłowski",
+      "room": "s. 214",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-2-2",
+      "dayIndex": 2,
+      "lessonNumber": 2,
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-2-3",
+      "dayIndex": 2,
+      "lessonNumber": 3,
+      "subject": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "room": "s. 112",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-2-4",
+      "dayIndex": 2,
+      "lessonNumber": 4,
+      "subject": "Fizyka",
+      "teacher": "dr Agnieszka Kamińska",
+      "room": "s. 305",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-2-5",
+      "dayIndex": 2,
+      "lessonNumber": 5,
+      "subject": "Informatyka",
+      "teacher": "mgr inż. Marek Wójcik",
+      "room": "s. 15 (komp.)",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-2-6",
+      "dayIndex": 2,
+      "lessonNumber": 6,
+      "subject": "Historia",
+      "teacher": "mgr Paweł Lewandowski",
+      "room": "s. 201",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-3-1",
+      "dayIndex": 3,
+      "lessonNumber": 1,
+      "subject": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "room": "s. 104",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-3-2",
+      "dayIndex": 3,
+      "lessonNumber": 2,
+      "subject": "Język polski",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "room": "s. 104",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-3-3",
+      "dayIndex": 3,
+      "lessonNumber": 3,
+      "subject": "Chemia",
+      "teacher": "mgr Ewa Szymańska",
+      "room": "s. 302",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-3-4",
+      "dayIndex": 3,
+      "lessonNumber": 4,
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-3-5",
+      "dayIndex": 3,
+      "lessonNumber": 5,
+      "subject": "Wychowanie fizyczne",
+      "teacher": "mgr Jakub Mazur",
+      "room": "Hala A",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-3-6",
+      "dayIndex": 3,
+      "lessonNumber": 6,
+      "subject": "Biologia",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "room": "s. 301",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-4-1",
+      "dayIndex": 4,
+      "lessonNumber": 1,
+      "subject": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "room": "s. 112",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-4-2",
+      "dayIndex": 4,
+      "lessonNumber": 2,
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-4-3",
+      "dayIndex": 4,
+      "lessonNumber": 3,
+      "subject": "Geografia",
+      "teacher": "mgr Michał Kozłowski",
+      "room": "s. 214",
+      "changeType": "normal"
+    },
+    {
+      "id": "tt-4-4",
+      "dayIndex": 4,
+      "lessonNumber": 4,
+      "subject": "Matematyka (Zastępstwo)",
+      "teacher": "mgr Piotr Nowak",
+      "room": "s. 208",
+      "changeType": "substitution",
+      "originalSubject": "Chemia (mgr Ewa Szymańska)",
+      "changeNote": "Zastępstwo za nieobecnego nauczyciela chemii"
+    },
+    {
+      "id": "tt-4-5",
+      "dayIndex": 4,
+      "lessonNumber": 5,
+      "subject": "Wychowanie fizyczne",
+      "teacher": "mgr Jakub Mazur",
+      "room": "Hala A",
+      "changeType": "cancelled",
+      "changeNote": "Lekcja odwołana (zawody międzyszkolne)"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "folder": "inbox",
+      "senderName": "mgr Piotr Nowak",
+      "senderRole": "Wychowawca 3B · Matematyka",
+      "recipientName": "Jan Kowalski / Anna Kowalska",
+      "subject": "Zebranie z rodzicami i podsumowanie śródroczne",
+      "body": "Dzień dobry,\n\nPrzypominam, że w najbliższy wtorek (24.11.2026) o godzinie 17:30 w sali 208 odbędzie się zebranie informacyjne z rodzicami klasy 3B. Omówimy proponowane oceny śródroczne, planowaną wycieczkę do Warszawy oraz organizację egzaminów próbnych.\n\nProszę również o uregulowanie nieusprawiedliwionych nieobecności z bieżącego tygodnia w zakładce Frekwencja.\n\nZ poważaniem,\nmgr Piotr Nowak",
+      "date": "2026-11-20 08:15",
+      "read": false
+    },
+    {
+      "id": "msg-2",
+      "folder": "inbox",
+      "senderName": "mgr Katarzyna Wiśniewska",
+      "senderRole": "Nauczyciel języka polskiego",
+      "recipientName": "Jan Kowalski",
+      "subject": "Konkurs recytatorski — wyniki etapu szkolnego",
+      "body": "Cześć Janek,\n\nGratuluję świetnego występu podczas szkolnego etapu konkursu recytatorskiego! Zakwalifikowałeś się do etapu wojewódzkiego, który odbędzie się 4 grudnia w Krakowie.\n\nW przyszłym tygodniu omówimy dobór drugiego tekstu na konsultacjach w środę po 6. lekcji.\n\nPozdrawiam,\nKatarzyna Wiśniewska",
+      "date": "2026-11-18 14:40",
+      "read": false
+    },
+    {
+      "id": "msg-3",
+      "folder": "inbox",
+      "senderName": "Sekretariat Szkoły",
+      "senderRole": "Administracja",
+      "recipientName": "Klasa 3B",
+      "subject": "Zmiana godzin pracy biblioteki szkolnej",
+      "body": "Szanowni Państwo,\n\nInformujemy, że w dniach 23–25 listopada biblioteka szkolna będzie czynna w godzinach 08:00–14:30 ze względu na inwentaryzację księgozbioru lektur.\n\nSekretariat Szkoły",
+      "date": "2026-11-15 11:05",
+      "read": true
+    },
+    {
+      "id": "msg-4",
+      "folder": "sent",
+      "senderName": "Anna Kowalska",
+      "senderRole": "Rodzic",
+      "recipientName": "mgr Piotr Nowak",
+      "subject": "Usprawiedliwienie nieobecności — 19.11",
+      "body": "Dzień dobry Panie Profesorze,\n\nUprzejmie informuję, że syn Jan Kowalski był nieobecny na dwóch pierwszych lekcjach w dniu 19.11.2026 z powodu zaplanowanej wizyty lekarskiej. Usprawiedliwienie zostało także wprowadzone w systemie.\n\nZ poważaniem,\nAnna Kowalska",
+      "date": "2026-11-19 10:20",
+      "read": true
+    }
+  ],
+  "calendarEvents": [
+    {
+      "id": "cal-1",
+      "date": "2026-11-23",
+      "title": "Sprawdzian z genetyki klasycznej",
+      "subject": "Biologia",
+      "category": "Sprawdzian",
+      "teacher": "mgr Magdalena Dąbrowska",
+      "description": "Zakres: prawa Mendla, dziedziczenie grup krwi, sprzężenie z płcią.",
+      "lessonNumber": 3
+    },
+    {
+      "id": "cal-2",
+      "date": "2026-11-24",
+      "title": "Wywiadówka klasowa 3B (godz. 17:30)",
+      "category": "Wydarzenie",
+      "teacher": "mgr Piotr Nowak",
+      "description": "Spotkanie wychowawcy z rodzicami w sali 208 — oceny przewidywane na I okres."
+    },
+    {
+      "id": "cal-3",
+      "date": "2026-11-25",
+      "title": "Kartkówka: stężenie molowe i procentowe",
+      "subject": "Chemia",
+      "category": "Kartkówka",
+      "teacher": "mgr Ewa Szymańska",
+      "description": "Zadania obliczeniowe na mieszanie i rozcieńczanie roztworów.",
+      "lessonNumber": 3
+    },
+    {
+      "id": "cal-4",
+      "date": "2026-11-27",
+      "title": "Sprawdzian: Polska pod zaborami",
+      "subject": "Historia",
+      "category": "Sprawdzian",
+      "teacher": "mgr Paweł Lewandowski",
+      "description": "Powstanie styczniowe, praca organiczna, autonomia galicyjska.",
+      "lessonNumber": 6
+    },
+    {
+      "id": "cal-5",
+      "date": "2026-11-30",
+      "title": "Próbny sprawdzian maturalny z matematyki",
+      "subject": "Matematyka",
+      "category": "Sprawdzian",
+      "teacher": "mgr Piotr Nowak",
+      "description": "Zestaw zadań otwartych i zamkniętych — poziom podstawowy (90 minut).",
+      "lessonNumber": 1
+    }
+  ],
+  "homework": [
+    {
+      "id": "hw-1",
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "assignedDate": "2026-11-20",
+      "dueDate": "2026-11-23",
+      "title": "Dzielenie wielomianów schematem Hornera",
+      "description": "Zbiór zadań Pazdro kl. 3: wykonać zadania 4.12, 4.15 oraz 4.18 (podpunkty a–d) w zeszycie przedmiotowym.",
+      "completed": false
+    },
+    {
+      "id": "hw-2",
+      "subject": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "assignedDate": "2026-11-18",
+      "dueDate": "2026-11-23",
+      "title": "Rozprawka „For and against essay”",
+      "description": "Napisać pracę pisemną (200–250 słów) na temat zalet i wad nauki zdalnej w szkole średniej.",
+      "completed": false
+    },
+    {
+      "id": "hw-3",
+      "subject": "Informatyka",
+      "teacher": "mgr inż. Marek Wójcik",
+      "assignedDate": "2026-11-16",
+      "dueDate": "2026-11-25",
+      "title": "Zapytania SQL z złączeniami JOIN",
+      "description": "Przygotować 5 zapytań SQL do bazy „Biblioteka” wykorzystujących INNER JOIN oraz GROUP BY.",
+      "completed": true
+    },
+    {
+      "id": "hw-4",
+      "subject": "Fizyka",
+      "teacher": "dr Agnieszka Kamińska",
+      "assignedDate": "2026-11-18",
+      "dueDate": "2026-11-25",
+      "title": "Zasada zachowania energii — arkusz zadań",
+      "description": "Rozwiązać zadania 1–5 z karty pracy udostępnionej na lekcji.",
+      "completed": false
+    }
+  ],
+  "behaviorNotes": [
+    {
+      "id": "bn-1",
+      "date": "2026-11-18",
+      "type": "positive",
+      "category": "Pochwała",
+      "teacher": "mgr Katarzyna Wiśniewska",
+      "description": "Wzorowe przygotowanie oraz zajęcie I miejsca w szkolnym etapie konkursu recytatorskiego.",
+      "points": 20
+    },
+    {
+      "id": "bn-2",
+      "date": "2026-11-11",
+      "type": "positive",
+      "category": "Aktywność społeczna",
+      "teacher": "mgr Piotr Nowak",
+      "description": "Pomoc w przygotowaniu apelu z okazji Święta Niepodległości oraz obsługa nagłośnienia.",
+      "points": 15
+    },
+    {
+      "id": "bn-3",
+      "date": "2026-11-17",
+      "type": "negative",
+      "category": "Spóźnienie / Organizacja",
+      "teacher": "mgr Piotr Nowak",
+      "description": "Spóźnienie na pierwszą lekcję matematyki (10 minut) bez wcześniejszego zgłoszenia.",
+      "points": -5
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "date": "2026-11-19",
+      "author": "dr Janusz Malinowski",
+      "authorRole": "Dyrektor Szkoły",
+      "title": "Harmonogram próbnych matur i konsultacji przed okresem I",
+      "content": "Informujemy uczniów klas 3 i 4, że w pierwszym tygodniu grudnia odbędą się próbne egzaminy diagnostyczne z języka polskiego, matematyki oraz języka obcego. Szczegółowy przydział sal zostanie opublikowany na tablicy ogłoszeń i w terminarzu dziennika do 26 listopada.",
+      "pinned": true
+    },
+    {
+      "id": "ann-2",
+      "date": "2026-11-16",
+      "author": "Samorząd Uczniowski",
+      "authorRole": "Organizacja szkolna",
+      "title": "Zbiórka książek oraz kiermasz zimowy 2026",
+      "content": "Zapraszamy wszystkich uczniów do udziału w corocznej zbiórce lektur i gier planszowych dla świetlic środowiskowych. Dary można przynosić do sali 108 w dniach 20–30 listopada."
+    },
+    {
+      "id": "ann-3",
+      "date": "2026-11-10",
+      "author": "mgr Piotr Nowak",
+      "authorRole": "Wychowawca klasy 3B",
+      "title": "Termin wpłat na wyjście do Teatru im. Juliusza Słowackiego",
+      "content": "Przypominam o potwierdzeniu obecności na spektaklu „Wesele” zaplanowanym na 11 grudnia. Zgody rodziców przyjmuję do końca listopada."
+    }
+  ],
+  "classRoster": [],
+  "readyTopics": [],
+  "syllabusTopics": [
+    {
+      "id": "syl-1",
+      "classId": "3B",
+      "subjectId": "mat",
+      "order": 1,
+      "title": "Funkcja kwadratowa i nierówności z parametrem",
+      "hours": 2,
+      "color": "#7B2276",
+      "completed": true
+    },
+    {
+      "id": "syl-2",
+      "classId": "3B",
+      "subjectId": "mat",
+      "order": 2,
+      "title": "Wielomiany — wprowadzenie i schemat Hornera",
+      "hours": 2,
+      "color": "#1D70B8",
+      "completed": true
+    },
+    {
+      "id": "syl-3",
+      "classId": "3B",
+      "subjectId": "mat",
+      "order": 3,
+      "title": "Twierdzenie Bézouta i pierwiastki wielomianu",
+      "hours": 2,
+      "color": "#76A815",
+      "completed": false
+    },
+    {
+      "id": "syl-4",
+      "classId": "3B",
+      "subjectId": "mat",
+      "order": 4,
+      "title": "Równania i nierówności wielomianowe",
+      "hours": 2,
+      "color": "#D97706",
+      "completed": false
+    },
+    {
+      "id": "syl-5",
+      "classId": "3B",
+      "subjectId": "pol",
+      "order": 1,
+      "title": "„Lalka” Bolesława Prusa — świat przedstawiony",
+      "hours": 2,
+      "color": "#B81D6B",
+      "completed": true
+    },
+    {
+      "id": "syl-6",
+      "classId": "3B",
+      "subjectId": "pol",
+      "order": 2,
+      "title": "Portret psychologiczny Stanisława Wokulskiego",
+      "hours": 2,
+      "color": "#0D9488",
+      "completed": false
+    },
+    {
+      "id": "syl-7",
+      "classId": "3B",
+      "subjectId": "inf",
+      "order": 1,
+      "title": "Algorytmy sortowania i złożoność obliczeniowa",
+      "hours": 2,
+      "color": "#4F46E5",
+      "completed": true
+    },
+    {
+      "id": "syl-8",
+      "classId": "3B",
+      "subjectId": "inf",
+      "order": 2,
+      "title": "Bazy danych SQL — zapytania SELECT i JOIN",
+      "hours": 2,
+      "color": "#1D70B8",
+      "completed": false
+    }
+  ],
+  "lessonLogs": [
+    {
+      "id": "ll-1",
+      "classId": "3B",
+      "date": "2026-11-20",
+      "lessonNumber": 1,
+      "subject": "Język angielski",
+      "teacher": "mgr Tomasz Zieliński",
+      "topic": "Reading & Use of English — vocabulary",
+      "color": "#1D70B8"
+    },
+    {
+      "id": "ll-2",
+      "classId": "3B",
+      "date": "2026-11-20",
+      "lessonNumber": 2,
+      "subject": "Matematyka",
+      "teacher": "mgr Piotr Nowak",
+      "topic": "Wielomiany — wprowadzenie i schemat Hornera",
+      "color": "#1D70B8",
+      "syllabusTopicId": "syl-2"
+    }
+  ],
+  "maintenance": {
+    "enabled": false,
+    "from": "",
+    "to": "",
+    "message": "Ze względu na nowe udostępnienie",
+    "blockNonDirector": false,
+    "updatedBy": "Dyrektor",
+    "updatedAt": "2026-11-23 14:36:43"
+  },
+  "cancelledDays": [
+    {
+      "id": "cd-1",
+      "date": "2026-11-25",
+      "reason": "Test"
+    }
+  ],
+  "temporaryTransfers": [],
+  "_revision": 2,
+  "_updatedAt": 1795527487090,
+  "_resetToken": 0
+}

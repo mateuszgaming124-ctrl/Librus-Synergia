@@ -1,0 +1,8 @@
+{
+  "name": "E-Dziennik Synergia",
+  "description": "Elektroniczny dziennik szkolny dla uczniów, rodziców i nauczycieli z ocenami, frekwencją, planem lekcji i wiadomościami.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
